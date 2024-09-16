@@ -11,4 +11,6 @@ The Network packet analyzer captures,inspects and analyzes the data packets trav
 Note that network packet analysis should only be conducted in controlled,educational environments or with proper authorization.Unauthorized use or analysis on live networks without permission can lead to legal consequences and compromise network integrity.
 
 The some glimpses of the network analysis on the connected wi-fi network is attached below:
+![Screenshot (226)](https://github.com/user-attachments/assets/cbc82cab-bbc0-4281-9202-b6b9c4e83308)
+
 
